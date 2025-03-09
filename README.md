@@ -1,14 +1,14 @@
-# 📢 Discord AI Announcement Bot  
+# 📢 Discord AI Announcement Bot | AnnounceMe
 
 A simple **Discord bot** that formats announcements using **AI (GPT-4o)** for a professional and engaging community experience.
 
-![Announcement Bot](announcement-logo.png)
+![Announcement Bot](https://ibb.co/cXTsSTCd)
 
 ---
 
 ## 🚀 What This Bot Does  
 - Uses **slash commands (`/announcement_creation`)** to generate AI-powered announcements.  
-- Formats text with **Markdown & light emojis** to enhance readability.  
+- Formats text with **Markdown & emoji** to enhance readability.  
 - Runs **24/7 on Railway** for continuous operation.  
 
 ---
