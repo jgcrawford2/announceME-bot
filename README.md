@@ -2,7 +2,7 @@
 
 A simple **Discord bot** that formats announcements using **AI (GPT-4o)** for a professional and engaging community experience.
 
-![Announcement Bot](announcement_logo.webp)
+![Announcement Bot](announcement_logo.png)
 
 ---
 
