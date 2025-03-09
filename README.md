@@ -2,7 +2,7 @@
 
 A simple **Discord bot** that formats announcements using **AI (GPT-4o)** for a professional and engaging community experience.
 
-![Announcement Bot](https://ibb.co/cXTsSTCd)
+![Announcement Bot](announcement-logo.png)
 
 ---
 
@@ -13,7 +13,7 @@ A simple **Discord bot** that formats announcements using **AI (GPT-4o)** for a 
 
 ---
 
-## 🎯 Commands  
+## 🎯 Commands Integrated so far. 
 | Command | Description |
 |---------|-------------|
 | `/announcement_creation [text]` | Generates a formatted announcement using GPT-4o and user input. |
