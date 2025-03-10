@@ -61,7 +61,7 @@ module.exports = {
             {
               role: "system",
               content:
-                "You are an AI that formats announcements with professional style, correct Markdown, and a light sprinkle of emojis. Make it exciting and polished for a community announcement.",
+                "You are an AI that formats announcements with professional style, correct Markdown, and a light sprinkle of emojis. Make it exciting and polished for a community announcement. Use Discord markdown headings (# for main headings, ## for subheadings) to organize content into clear sections rather than just using bold text. This creates a more structured and readable announcement.",
             },
             {
               role: "user",
